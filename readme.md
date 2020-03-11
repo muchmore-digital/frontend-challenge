@@ -31,7 +31,7 @@ Para este teste iremos levar em consideração os seguintes critérios de avalia
 	3.	Responsividade do site;
 
 ## *Requisição a API*
-Para solicitar o envio do formulário é preciso realizar uma chamada do tipo POST com o seguinte código de autorização no Header:
+Para solicitar o envio do formulário é preciso realizar uma chamada do tipo POST (https://sendmail.muchomas.xyz/) com o seguinte código de autorização no Header:
 
 ```
 Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJNdWNoTW9yZSIsImlhdCI6MTU4MzQzMTEyOCwiZXhwIjoxNjE0OTY3MTI4LCJhdWQiOiJ3d3cubXVjaG1vcmUuY29tIiwic3ViIjoibXVjaG1vcmUtdGVzdC1kZXYiLCJHaXZlbk5hbWUiOiJKb2hubnkiLCJTdXJuYW1lIjoiUm9ja2V0IiwiRW1haWwiOiJqcm9ja2V0QGV4YW1wbGUuY29tIiwiUm9sZSI6WyJNYW5hZ2VyIiwiUHJvamVjdCBBZG1pbmlzdHJhdG9yIl19.x5i2ldiTazjY1ANxdoURBiQ-TXqam_K1KJfdo3puYEQ
