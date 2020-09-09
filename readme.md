@@ -5,7 +5,7 @@ Olá, este é o desafio para a desenvolvedores Front-End da Muchmore.digital. Ne
 
 ### *Home*
 
-Nesta página temos uma contagem regressiva para o lançamento do site, o objetivo aqui é fazer esse contador funcionar e contar repressivamente dia, hora, minuto e segundos até 06/06/2020.
+Nesta página temos uma contagem regressiva para o lançamento do site, o objetivo aqui é fazer esse contador funcionar e contar repressivamente dia, hora, minuto e segundos até 06/06/2021.
 
 ### *Contact Us*
 
